@@ -35,8 +35,6 @@ Bottom right border: `3`
 
 [Creative Commons Zero 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, Josh Walters has waived all copyright and related or neighboring rights to "Open Chess Font". This work is published from: United States.
-
 See the `LICENSE` file for more information.
 
 # Contributing
