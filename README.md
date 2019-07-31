@@ -10,34 +10,17 @@ The names on the `svg` files map to the characters they replace in the font.
 
 # Piece letter mapping
 
+| Piece | White piece, white square | White piece, black square | Black piece, white square | Black piece, black square |
+|---|---|---|---|---|
+| King | `K` | `k` | `L` | `l` |
+| Queen | `Q` | `q` | `W` | `w` |
+| Bishop | `B` | `b` | `V` | `v` |
+| Knight | `N` | `n` | `M` | `m` |
+| Rook | `R` | `r` | `T` | `t` |
+| Pawn | `P` | `p` | `O` | `o` |
+
 Empty white square: `z`  
-Empty black square: `x`  
-
-White king, black square: `k`  
-White king, white square: `K`  
-White queen, black square: `q`  
-White queen, white square: `Q`  
-White bishop, black square: `b`  
-White bishop, white square: `B`  
-White knight, black square: `n`  
-White knight, white square: `N`  
-White rook, black square: `r`  
-White rook, white square: `R`  
-White pawn, black square: `p`  
-White pawn, white square: `P`  
-
-Black king, black square: `l`  
-Black king, white square: `L`  
-Black queen, black square: `w`  
-Black queen, white square: `W`  
-Black bishop, black square: `v`  
-Black bishop, white square: `V`  
-Black knight, black square: `m`  
-Black knight, white square: `M`  
-Black rook, black square: `t`  
-Black rook, white square: `T`  
-Black pawn, black square: `o`  
-Black pawn, white square: `O`  
+Empty black square: `x`   
 
 Top left border: `7`  
 Top middle border: `8`  
