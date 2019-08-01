@@ -17,7 +17,7 @@ A creative commons chess font.
 | Rook | `R` | `r` | `T` | `t` |
 | Pawn | `P` | `p` | `O` | `o` |
 
-Empty white square: `z`
+Empty white square: `z`  
 Empty black square: `x`
 
 # License
