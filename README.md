@@ -1,6 +1,6 @@
 # Open Chess Font
 
-An open chess font. Released under the Creative Commons Attribution-ShareAlike 3.0 Unported license.
+An open chess font. Released under the [Creative Commons Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/).
 
 # Example
 
