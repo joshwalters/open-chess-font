@@ -1,6 +1,6 @@
 # Open Chess Font
 
-A creative commons chess font.
+An open chess font. Released under the [Creative Commons Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/).
 
 # Example
 
@@ -17,10 +17,10 @@ A creative commons chess font.
 | Rook | `R` | `r` | `T` | `t` |
 | Pawn | `P` | `p` | `O` | `o` |
 
-Empty white square: `z`
+Empty white square: `z`  
 Empty black square: `x`
 
-# License
+# Authors & License
 
 The chess pieces were created by [Colin M.L. Burnett](https://en.wikipedia.org/wiki/User:Cburnett) under the Creative Commons Attribution-ShareAlike 3.0 Unported license. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/).
 
