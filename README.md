@@ -22,4 +22,4 @@ Empty black square: `x`
 
 # Authors & License
 
-This work is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) license. The chess pieces are attributed to [Colin M.L. Burnett](https://en.wikipedia.org/wiki/User:Cburnett). Modifications to the chess pieces and font generation are attributed to [Josh Walters](https://joshwalters.com).
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. The chess pieces are attributed to Colin M.L. Burnett (https://en.wikipedia.org/wiki/User:Cburnett). Modifications to the chess pieces and conversion to a font is attributed to Josh Walters (http://joshwalters.com). To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.
