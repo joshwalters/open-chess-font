@@ -22,6 +22,4 @@ Empty black square: `x`
 
 # Authors & License
 
-The chess pieces were created by [Colin M.L. Burnett](https://en.wikipedia.org/wiki/User:Cburnett) under the Creative Commons Attribution-ShareAlike 3.0 Unported license. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/).
-
-Modifications to the chess pieces and font generation was done by [Josh Walters](http://joshwalters.com) under the Creative Commons Attribution-ShareAlike 3.0 Unported license. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/).
+This work is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) license. The chess pieces are attributed to [Colin M.L. Burnett](https://en.wikipedia.org/wiki/User:Cburnett). Modifications to the chess pieces and font generation are attributed to [Josh Walters](http://joshwalters.com).
